@@ -6,13 +6,14 @@ This guide is designed to serve as a guide for GLEON members whose lake lacks a 
 
 The first step in creating a page is to make sure it does not already exist. Assuming that it does not the next step is to create a blank page. Although, you have [several options](https://en.wikipedia.org/wiki/Wikipedia:How_to_create_a_page), the easiest method involves creating a broken link on your user talk page:
 
-> This can be accessed by navigating to your user profile by clicking your user name in the middle of the page at the very top (assuming you have logged in), switching to the `Talk` tab, and clicking `Edit source`. You can create the necessary broken link using bracket syntax. For example, if our lake is called `Lake GLEON` the link will be:
+> This can be accessed by navigating to your user profile, which is done clicking your user name in the middle of the page at the very top (assuming you have logged in), switching to the `Talk` tab, and clicking `Edit source`. You can create the necessary broken link using bracket syntax. For example, if our lake is called `Lake GLEON` the link will be:
 
 ![link code](images/link_code.png)
 
-```
-[[Lake GLEON]];
-```
+After clicking the `Save changes` button, the link will appear in red text (indicating the page does not exist).
+
+![link render](images/link_render.png)
+
 ### Copy over template
 
 Following the broken link will create a blank Wikipedia page at the appropriate address. 
