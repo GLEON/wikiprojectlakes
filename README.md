@@ -8,6 +8,8 @@ The first step in creating a page is to make sure it does not already exist. Ass
 
 > This can be accessed by navigating to your user profile by clicking your user name in the middle of the page at the very top (assuming you have logged in), switching to the `Talk` tab, and clicking `Edit source`. You can create the necessary broken link using bracket syntax. For example, if our lake is called `Lake GLEON` the link will be:
 
+![link code](images/link_code.png)
+
 ```
 [[Lake GLEON]];
 ```
