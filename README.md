@@ -37,5 +37,5 @@ Filling out the `pushpin_map` field is a nice touch as visitors to the page can 
 Information on the characteristics of the lake should be cited with referencs whenever possible. This can be done with `ref` `html` tags. For example, on the Flat River Reservoir page the maximum lake depth value is cited from a website between an opening and closing `ref` tag:
 
 ```
-| max-depth = {{Convert|30|ft|m|0|abbr=on}}<ref name="ridem">Rhode Island Department of Environmental Management <http://www.dem.ri.gov/maps/mapfile/pondbath.pdf></ref>
+| max-depth = \{\{Convert|30|ft|m|0|abbr=on\}\}<ref name="ridem">Rhode Island Department of Environmental Management <http://www.dem.ri.gov/maps/mapfile/pondbath.pdf></ref>
 ```
