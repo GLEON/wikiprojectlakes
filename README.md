@@ -34,6 +34,14 @@ Notice that many of the items are blank and can be left blank. A few of the item
 
 ![template wikitext edited](images/template_wikitext_edited.png)
 
+The remaining Wikitext is mostly optional. It is good practice to include at least one sentence in the page body along the lines of:
+
+```
+'''Lake GLEON''' is a large lake in [[Lake Province, Worldwide]].
+```
+
+Remember to remove or update any links left over from the template related to `Lists of lakes` or Wikipedia `Category`.
+
 ### Cite references
 
 If you have additional information on the characteristics of the lake such as depth, area, or any of the other fields in the [Infobox template](https://en.wikipedia.org/wiki/Template:Infobox_body_of_water) they should be cited with reference tags whenever possible. 
@@ -49,5 +57,3 @@ For example, lets say we know that the maximum depth of Lake GLEON according to 
 ### Preview changes and save
 
 Before saving changes you should click the `Show Preview` button. If everything looks good click `Save changes`.
-
-
