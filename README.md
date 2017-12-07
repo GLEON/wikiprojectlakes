@@ -36,9 +36,11 @@ If you have additional information on the characteristics of the lake such as de
 
 For example, lets say we know that the maximum depth of Lake GLEON according to the Lake GLEON water authority is 10 meters. We can add this information to the page along with a citation using the following Wikitext markup:
 
+{% raw %}
 ```
-| max-depth = \{\{Convert|32|ft|m|0|abbr=on\}\}<ref name="lakegleonwater">Lake GLEON water authority <http://lakegleon.org/lake_gleon></ref>
+| max-depth = {{Convert|32|ft|m|0|abbr=on}}<ref name="lakegleonwater">Lake GLEON water authority <http://lakegleon.org/lake_gleon></ref>
 ```
+{% endraw %}
 
 ### Preview changes and save
 
