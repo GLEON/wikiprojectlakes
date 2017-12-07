@@ -34,7 +34,7 @@ Notice that many of the items are blank and can be left blank. A few of the item
 
 ![template wikitext edited](images/template_wikitext_edited.png)
 
-The remaining Wikitext in the page body (below) the infobox is mostly optional. It is good practice to include at least one sentence in the page body along the lines of:
+The remaining Wikitext in the page body below the infobox is mostly optional. It is good practice to include at least one sentence in the page body along the lines of:
 
 ```
 '''Lake GLEON''' is a large lake in [[Lake Province, Worldwide]].
