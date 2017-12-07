@@ -1,5 +1,11 @@
 ## About
 
+Here is a map of GLEON lakes according to Wikipedia.
+
+![gleon wikipedia map](images/gleon_wikipedia.png)
+
+According to [one analysis](https://gist.github.com/jsta/e486f337be6d5bcdb3aeb1335959de52) over 100 GLEON lakes are missing a Wikipedia page. 
+
 This guide is designed to serve as a guide for GLEON members whose lake lacks a page on Wikipedia. Before you begin, you should sign up for a Wikipedia account by navigating to [https://en.wikipedia.org/](https://en.wikipedia.org/), clicking on `Log in`, and clicking on `Join Wikipedia`.
 
 ### Create a blank page
