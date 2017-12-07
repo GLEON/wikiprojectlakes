@@ -26,7 +26,7 @@ Now we can start replacing the items left over from the Flat River Reservoir pag
 
 ![template wikitext](images/template_wikitext.png)
 
-Many of the items are blank and can be left blank. However, a few of the items are critical. These include the `name`, `location`, and `coords` fields.
+Notice that many of the items are blank and can be left blank. A few of the items are critical including the `name`, `location`, and `coords` fields.
 
 ![template wikitext edited](images/template_wikitext_edited.png)
 
