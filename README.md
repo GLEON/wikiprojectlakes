@@ -1,6 +1,6 @@
 ## About
 
-Here is a map of GLEON lakes according to Wikipedia:
+Here is a map of GLEON lakes according to (English) Wikipedia:
 
 ![gleon wikipedia map](images/gleon_wikipedia.png)
 
