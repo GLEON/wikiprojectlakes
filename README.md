@@ -4,11 +4,13 @@ Here is a map of GLEON lakes according to (English) Wikipedia:
 
 ![gleon wikipedia map](images/gleon_wikipedia.png)
 
-According to [one analysis](https://gist.github.com/jsta/e486f337be6d5bcdb3aeb1335959de52) over 100 GLEON lakes are missing a Wikipedia page. This guide is designed to serve as a guide for GLEON members whose lake lacks a page on Wikipedia. Before you begin, you should sign up for a Wikipedia account by navigating to [https://en.wikipedia.org/](https://en.wikipedia.org/), clicking on `Log in`, and clicking on `Join Wikipedia`.
+According to [one analysis](https://gist.github.com/jsta/e486f337be6d5bcdb3aeb1335959de52) over 100 GLEON lakes are missing a Wikipedia page. The following walkthrough is designed to serve as a guide for GLEON members whose lake lacks a page on Wikipedia. Before you begin, you should sign up for a Wikipedia account by navigating to [https://en.wikipedia.org/](https://en.wikipedia.org/), clicking on `Log in`, and clicking on `Join Wikipedia`.
 
 ### Create a blank page
 
-The first step in creating a page is to make sure it does not already exist. The next step is to create a blank page. Although, you have [several options](https://en.wikipedia.org/wiki/Wikipedia:How_to_create_a_page), the easiest method involves creating a "broken" link on your user talk page:
+The first step in creating a page is to make sure it does not already exist. 
+
+The next step is to create a blank page. Although, you have [several options](https://en.wikipedia.org/wiki/Wikipedia:How_to_create_a_page), the easiest method involves creating a "broken" link on your user talk page:
 
 > Your user talk page can be accessed by navigating to your user profile, which is done by clicking your user name in the middle of the page at the very top (assuming you have logged in), switching to the `Talk` tab, and clicking `Edit source`. You can create the necessary broken link using bracket syntax. For example, if our lake is called `Lake GLEON` the link will be:
 
